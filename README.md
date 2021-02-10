@@ -1,5 +1,7 @@
 # EDB-ID-41154
 
+https://www.exploit-db.com/exploits/41154
+
 GNU Screen 4.5.0 - Local Privilege Escalation 
 
 compile binaries on attacker machine
